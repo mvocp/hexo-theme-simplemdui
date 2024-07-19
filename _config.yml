@@ -1,0 +1,19 @@
+menu: #Form: MENU: LINK
+  首页: /
+  归档: /archives
+  关于: /about
+
+comment: #Use gitalk,if you dont know how to use it,google or fuck yourself
+  client_id:
+  client_secret:
+  repo_name:
+  owner:  #only one man,its your github username.
+  admin:  #only one man,its your github username.
+
+intro:
+  name: VanllaOcap #How others call you?
+  description: 去他妈的精神内耗。 #Introduce yourself to others
+#Maybe i will add them below into theme someday...
+  socialmedia: #link!link!NOT ID!
+    - bilibili: https://space.bilibili.com/433914243
+    - github: https://github.com/mvocp
